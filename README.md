@@ -7,7 +7,7 @@ Info: subject to change:
 
 # Parts
 
-## Camera
+## CameraDevelopment space For the pxl rttf team
 
 # Het plan
  het python programa dat vorig jaar werdt gebruikt te vernieuwen naar C.
