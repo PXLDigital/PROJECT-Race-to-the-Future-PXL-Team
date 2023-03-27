@@ -6,6 +6,7 @@
  * Used np.clip() to limit the output of the PID controller to the range [1, 179] before setting the servo position.
  * Cleared 'unnecesary' comments and code. Cross reference the original code for more details. 'completeRTTF.py'
  * PID not fully functional atm.
+ * Renamed the b1,b2,b3 and b4 boolean checks for user readability.
 
   
 
