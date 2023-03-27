@@ -1,4 +1,4 @@
- ##Changes to revisedV1_RTFF.py
+ Changes to revisedV1_RTFF.py
  * Used the cv2.cuda module to perform some image processing operations on the GPU.
  * Replaced the loop that scans for the position of the red line on the left and right sides of the frame with, 
  * cv2.cuda.reduce() calls to reduce the mask image to one-dimensional arrays representing the position of the line. (cvc.reduce)
@@ -7,7 +7,7 @@
  * Cleared 'unnecesary' comments and code. Cross reference the original code for more details. 'completeRTTF.py'
  * PID not fully functional atm.
 
-
+  
 
  Required packages to install on: Jetson Nano
  * pip install opencv-python-headless  
