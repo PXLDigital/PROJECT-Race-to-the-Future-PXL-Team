@@ -9,8 +9,8 @@
 
 
  Required packages to install on: Jetson Nano
- pip install opencv-python-headless
- pip install numpy
- pip install simple-pid
- pip install adafruit-circuitpython-servokit
+ * pip install opencv-python-headless
+ * pip install numpy
+ * pip install simple-pid
+ * pip install adafruit-circuitpython-servokit
 
