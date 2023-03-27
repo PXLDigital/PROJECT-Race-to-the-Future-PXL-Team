@@ -195,8 +195,6 @@ kit.continuous_servo[9].throttle = (abs(MV-90) / 90) / 3
         
     # Check if the user has pressed the 'q' key to exit the program
 if cv2.waitKey(1) & 0xFF == ord('q'):
-    break
-        
 # Release the resources and close the windows
 cap.release()
 cv2.destroyAllWindows()
